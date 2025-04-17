@@ -3,7 +3,8 @@
 Enhance LinkedIn profiles with insightful company match information!  
 This Chrome extension displays a widget on LinkedIn profile pages to show how well the profile matches with a given company's requirements and status (Target / Not Target).
 
-![Extension Demo Screenshot](images/demo.png) <!-- Optional: add a screenshot here -->
+![Extension Demo Screenshot](https://github.com/user-attachments/assets/3ecf2295-7cb9-412c-ba27-c8890dd89090)
+
 
 ---
 
