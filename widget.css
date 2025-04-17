@@ -1,0 +1,86 @@
+.company-widget {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    width: 280px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    z-index: 9999;
+  }
+  
+  .widget-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .widget-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #0077B5;
+    margin: 0;
+  }
+  
+  .widget-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .company-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .match-score-container {
+    margin-bottom: 15px;
+  }
+  
+  .match-score-label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
+  .progress-bar {
+    background-color: #e0e0e0;
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .progress-value {
+    height: 100%;
+    background-color: #0077B5;
+  }
+  
+  .account-status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .status-target {
+    background-color: #dff0d8;
+    color: #3c763d;
+  }
+  
+  .status-not-target {
+    background-color: #f2dede;
+    color: #a94442;
+  }
+  
+  .widget-drag-handle {
+    cursor: move;
+    padding: 5px;
+  }
